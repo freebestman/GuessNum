@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GuessNum</string>
+    <string name="helpText">
+     <i>作者：郭遥锋</i>
+     \n
+     \n
+     <i>微信：roadwalker</i>
+     \n
+     \n
+     <b>猜数字游戏，随机生成一个1-100的自然数，玩家通过多次输入得到提示来缩小范围，直到猜中结束游戏</b>
+     \n
+     \n
+     <i>[Back]-----退出游戏</i>
+        \n
+     <i>[Help]-----游戏说明</i>
+        \n
+     <i>[Replay]---重玩游戏</i>
+        \n
+     <i>[Send]-----发送数字</i>
+        \n
+    </string>
+    <string name="helpTitle">关于</string>
+    <string name="notNull">输入不能为空</string>
+    <string name="invalidNum">输入无效的数字</string>
+    <string name="tips">提示</string>
+    <string name="sureOfReplay">游戏还没结束，确定重玩？</string>
+</resources>
